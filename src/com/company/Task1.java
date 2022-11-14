@@ -1,7 +1,6 @@
 package com.company;
 
 public class Task1 {
-
     public static void main(String[] args) {
 	    byte byteVar = 127;
 	    short shortVar = 10000;
